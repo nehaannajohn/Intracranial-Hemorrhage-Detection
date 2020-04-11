@@ -1,8 +1,4 @@
 # Intracranial Hemorrhage Detection
 
-MSBA - Semester 2 (Advanced Predictive Modeling)
-
-To get an idea of what we did in the project you can visit the following link -
-https://prezi.com/p/d5zoy--q2tb7/
-
-Or go through the Presentation in the repository.
+As part of this project, CT scan images from the Radiological Society are being used as the dataset to detect hemorrhages accurately. We have trained the data using deep learning architectures such as VGG16, InceptionV3, ResNET50 and utilized windowing and sampling techniques during the pre-processing phase. 
+Utilized hyperparameter tuning to choose the most optimum model based on lowest validation losses and recall metric.
